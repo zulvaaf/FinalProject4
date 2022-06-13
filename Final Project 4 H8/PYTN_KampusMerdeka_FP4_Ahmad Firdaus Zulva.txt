@@ -1,0 +1,7 @@
+Ahmad Firdaus Zulva 
+PYTN-KS04-001
+
+Link Github 
+https://github.com/zulvaaf/FinalProject4
+Link Heroku
+https://fp4-swz.herokuapp.com/
